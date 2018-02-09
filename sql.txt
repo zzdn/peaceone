@@ -1,0 +1,6 @@
+ public class HelloWorld{
+	//Ëõ½ø : tab
+	public static void main(String[] args){
+		System.out.println(args[0]);
+	}
+}
